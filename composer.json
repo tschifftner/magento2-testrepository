@@ -76,7 +76,7 @@
   },
   "minimum-stability": "alpha",
   "prefer-stable": true,
-  "extra": {"magento-deploystrategy": "none",
+  "extra": {
     "magento-force": "override"
   }
 }
